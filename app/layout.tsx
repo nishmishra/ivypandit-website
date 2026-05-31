@@ -10,7 +10,7 @@ function Header() {
   return (
     <>
       <div className="topbar">
-        <div>✉ info@ivypandit.com</div>
+        <div>✉ nishant.mishra@ivypandit.com</div>
         <div>YouTube &nbsp; | &nbsp; Research &nbsp; | &nbsp; Sanskrit Wisdom</div>
       </div>
       <nav className="nav">

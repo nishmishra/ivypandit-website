@@ -19,8 +19,8 @@ export default function Contact() {
           <li>Mahabharata & Leadership Psychology</li>
           <li>Sanskrit, Sound & Cognition</li>
         </ul>
-        <p><strong>Email:</strong> info@ivypandit.com</p>
-        <a className="button" href="mailto:info@ivypandit.com">Email Ivy Pandit</a>
+        <p><strong>Email:</strong> nishant.mishra@ivypandit.com</p>
+        <a className="button" href="mailto:nishant.mishra@ivypandit.com">Email Ivy Pandit</a>
       </section>
     </main>
   );

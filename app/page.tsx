@@ -86,7 +86,7 @@ export default function Home() {
       <section className="section newsletter">
         <h2>Join The Ivy Pandit Letter</h2>
         <p>Receive new lectures, research reflections, Sanskrit insights, and updates on future courses and events.</p>
-        <a className="button" href="mailto:info@ivypandit.com">Contact / Subscribe</a>
+        <a className="button" href="mailto:nishant.mishra@ivypandit.com">Contact / Subscribe</a>
       </section>
     </main>
   );

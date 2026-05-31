@@ -17,7 +17,7 @@ export default function YouTube() {
           <li>Bhagavad Gita & Psychology</li>
           <li>Mahabharata & Leadership</li>
         </ul>
-        <a className="button" href="https://www.youtube.com" target="_blank">Visit YouTube</a>
+        <a className="button" href="https://www.youtube.com/@IvyPandit" target="_blank">Visit YouTube</a>
       </section>
     </main>
   );
