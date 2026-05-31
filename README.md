@@ -9,3 +9,8 @@ Changes:
 - Uses approved professional portrait
 
 Deploy: upload all contents of this folder to GitHub repo root, commit, and Vercel will redeploy.
+
+
+## Update
+- Removed Cloudflare routing note from Contact page.
+- Added the uploaded Varanasi/yellow cultural banner image to all inner pages.

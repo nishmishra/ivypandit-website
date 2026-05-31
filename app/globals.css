@@ -15,3 +15,14 @@
 .contact-band{text-align:center;background:linear-gradient(90deg,#9a3412,#f97316);color:#fff}.contact-band h2{color:#fff;font-size:42px;margin:0 0 16px}.contact-band p{color:#fff8e7;max-width:760px;margin:0 auto 28px;font-family:Arial,sans-serif;line-height:1.7;font-size:18px}.footer{padding:34px 7%;background:#2a1208;color:#fff;display:flex;justify-content:space-between;gap:20px;font-family:Arial,sans-serif}
 .devanagari{font-family:"Noto Serif Devanagari","Mangal","Kohinoor Devanagari",Georgia,serif;font-size:18px;line-height:1.95}.lang-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:22px}.lang-card{background:#fffdf7;border:1px solid var(--line);border-radius:14px;padding:22px}.admin-note{background:#fff3d1;border:1px solid #f6c56f;padding:18px;border-radius:12px;font-family:Arial,sans-serif;color:#5f2600}
 @media(max-width:1100px){.home-cards{grid-template-columns:repeat(2,1fr)}}@media(max-width:900px){.nav{align-items:flex-start;flex-direction:column;gap:20px}.cards,.research-grid,.article-grid,.about-grid,.lang-grid,.home-cards,.video-grid,.hero-inner{grid-template-columns:1fr}.topbar,.footer{flex-direction:column}.hero{padding-top:44px}.portrait-hero{margin:20px auto 0}}
+
+
+.page-photo-banner {
+  width: 100%;
+  background: linear-gradient(90deg, #fff8e7, #ffedd5);
+  border-bottom: 4px solid var(--sun, #fbbf24);
+}
+.page-photo-banner img {
+  width: 100%;
+  display: block;
+}
