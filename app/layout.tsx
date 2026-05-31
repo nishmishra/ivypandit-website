@@ -10,23 +10,13 @@ function Header() {
   return (
     <>
       <div className="topbar">
-        <div>
-          <a href="/">English</a> | <a href="/hi">हिन्दी</a> | <a href="/sa">संस्कृतम्</a>
-        </div>
+        <div><a href="/">English</a> | <a href="/hi">हिन्दी</a> | <a href="/sa">संस्कृतम्</a></div>
         <div><a href="https://www.youtube.com/@IvyPandit">YouTube @IvyPandit</a> ✉ nishant.mishra@ivypandit.com</div>
       </div>
       <nav className="nav">
-        <a href="/" className="logo">
-          IVY PANDIT
-          <small>Ancient Wisdom. Modern Neuroscience. Timeless Inquiry.</small>
-        </a>
+        <a href="/" className="logo">IVY PANDIT<small>Ancient Wisdom. Modern Neuroscience. Timeless Inquiry.</small></a>
         <div className="navlinks">
-          <a href="/">Home</a>
-          <a href="/about">About</a>
-          <a href="/research">Research</a>
-          <a href="/articles">Articles</a>
-          <a href="/youtube">YouTube</a>
-          <a href="/contact">Contact</a>
+          <a href="/">Home</a><a href="/about">About</a><a href="/research">Research</a><a href="/articles">Articles</a><a href="/youtube">YouTube</a><a href="/contact">Contact</a><a href="/admin">Admin</a>
         </div>
       </nav>
     </>
@@ -44,13 +34,5 @@ function Footer() {
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return (
-    <html lang="en">
-      <body>
-        <Header />
-        {children}
-        <Footer />
-      </body>
-    </html>
-  );
+  return <html lang="en"><body><Header />{children}<Footer /></body></html>;
 }

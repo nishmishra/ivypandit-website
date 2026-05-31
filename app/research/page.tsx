@@ -1,12 +1,1 @@
-export default function Research() {
-  return (
-    <main>
-      <section className="page-hero"><h1>Research & Inquiry</h1><p>A developing knowledge hub connecting neuroscience, cognition, meditation, Sanskrit, consciousness studies, and Indian knowledge systems.</p></section>
-      <section className="section"><div className="research-grid">
-        <div className="research-item"><span className="badge">Strong Evidence</span><h3>Meditation & Brain Networks</h3><p>Attention, stress regulation, emotional resilience, and neuroplasticity.</p></div>
-        <div className="research-item"><span className="badge">Emerging Field</span><h3>Sanskrit, Sound & Cognition</h3><p>Chanting, rhythm, memory, articulation, and attention.</p></div>
-        <div className="research-item"><span className="badge">Open Inquiry</span><h3>Consciousness & Vedanta</h3><p>Self-awareness, consciousness, and philosophical frameworks.</p></div>
-      </div></section>
-    </main>
-  );
-}
+export default function Research() { return <main><section className="page-hero"><h1>Research & Inquiry</h1><p>A developing knowledge hub connecting neuroscience, cognition, meditation, Sanskrit, consciousness studies, and Indian knowledge systems.</p></section><section className="section"><div className="research-grid"><div className="research-item"><span className="badge">Strong Evidence</span><h3>Meditation & Brain Networks</h3><p>Attention, stress regulation, emotional resilience, and neuroplasticity.</p></div><div className="research-item"><span className="badge">Emerging Field</span><h3>Sanskrit, Sound & Cognition</h3><p>Chanting, rhythm, memory, articulation, and attention.</p></div><div className="research-item"><span className="badge">Open Inquiry</span><h3>Consciousness & Vedanta</h3><p>Self-awareness, consciousness, and philosophical frameworks.</p></div></div></section></main>; }

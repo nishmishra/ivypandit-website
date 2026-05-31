@@ -1,17 +1,1 @@
-export default function About() {
-  return (
-    <main>
-      <section className="page-hero">
-        <h1>About Dr. Nishant K. Mishra</h1>
-        <p>Neurologist • Scientist • Thinker • Sanskrit Enthusiast • Founder, Ivy Pandit</p>
-      </section>
-      <section className="section about-grid">
-        <img className="portrait" src="/images/dr-nishant-mishra.png" alt="Dr. Nishant K. Mishra" />
-        <div className="copy">
-          <p>Dr. Nishant K. Mishra, MD, PhD, is a neurologist, physician-scientist, thinker, educator, and Sanskrit enthusiast. Ivy Pandit was created to explore the relationship between neuroscience, consciousness, Sanskrit literature, and Sanatana Dharma.</p>
-          <p className="quote">“Science teaches us how to ask questions rigorously; the great traditions of human civilization remind us which questions are worth asking.”</p>
-        </div>
-      </section>
-    </main>
-  );
-}
+export default function About() { return <main><section className="page-hero"><h1>About Dr. Nishant K. Mishra</h1><p>Neurologist • Scientist • Thinker • Sanskrit Enthusiast • Founder, Ivy Pandit</p></section><section className="section about-grid"><img className="portrait" src="/images/dr-nishant-mishra.png" alt="Dr. Nishant K. Mishra" /><div className="copy"><p>Dr. Nishant K. Mishra, MD, PhD, is a neurologist, physician-scientist, thinker, educator, and Sanskrit enthusiast. Ivy Pandit was created to explore the relationship between neuroscience, consciousness, Sanskrit literature, and Sanatana Dharma.</p><p className="quote">“Science teaches us how to ask questions rigorously; the great traditions of human civilization remind us which questions are worth asking.”</p></div></section></main>; }
