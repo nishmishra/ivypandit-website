@@ -11,7 +11,7 @@ function Header() {
     <>
       <div className="topbar">
         <div>✉ nishant.mishra@ivypandit.com</div>
-        <div>YouTube &nbsp; | &nbsp; Research &nbsp; | &nbsp; Sanskrit Wisdom</div>
+        <div><a href="https://www.youtube.com/@IvyPandit">YouTube</a> | Research | Sanskrit Wisdom</div>
       </div>
       <nav className="nav">
         <a href="/" className="logo">
@@ -22,11 +22,13 @@ function Header() {
           <a href="/">Home</a>
           <a href="/about">About</a>
           <a href="/research">Research</a>
-          <a href="/publications">Publications</a>
           <a href="/articles">Articles</a>
+          <a href="/gita">Gita</a>
+          <a href="/mahabharata">Mahabharata</a>
+          <a href="/bhagavatam">Bhagavatam</a>
           <a href="/youtube">YouTube</a>
+          <a href="/speaking">Speaking</a>
           <a href="/contact">Contact</a>
-          <a className="button" href="/contact">Newsletter</a>
         </div>
       </nav>
     </>
@@ -37,7 +39,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div>Ivy Pandit © 2026</div>
-      <div>Neuroscience • Sanskrit • Sanatana Dharma</div>
+      <div>Neuroscience • Sanskrit • Sanatana Dharma • nishant.mishra@ivypandit.com</div>
     </footer>
   );
 }
