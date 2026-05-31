@@ -1,15 +1,25 @@
-# Ivy Pandit Website
+# Ivy Pandit Phase 2 Website
 
 Production-ready Next.js website for Ivy Pandit.
 
-## Deploy
-Upload the contents of this folder to GitHub root and let Vercel deploy automatically.
+## Pages included
+- Home
+- About Dr. Nishant K. Mishra
+- Research
+- Publications
+- Articles
+- YouTube
+- Contact
 
-## Required structure
-- app/page.tsx
-- app/layout.tsx
-- app/globals.css
-- public/images/ivy-pandit-homepage-hero.png
+## Deploy
+Upload the contents of this folder to the GitHub repository root.
+Vercel will automatically deploy.
+
+## Correct structure
+- app/
+- public/
 - package.json
 - next.config.mjs
 - tsconfig.json
+- next-env.d.ts
+- README.md
