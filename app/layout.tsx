@@ -10,24 +10,22 @@ function Header() {
   return (
     <>
       <div className="topbar">
-        <div>✉ nishant.mishra@ivypandit.com</div>
-        <div><a href="https://www.youtube.com/@IvyPandit">YouTube</a> | Research | Sanskrit Wisdom</div>
+        <div>
+          <a href="/">English</a> | <a href="/hi">हिन्दी</a> | <a href="/sa">संस्कृतम्</a>
+        </div>
+        <div><a href="https://www.youtube.com/@IvyPandit">YouTube @IvyPandit</a> ✉ nishant.mishra@ivypandit.com</div>
       </div>
       <nav className="nav">
         <a href="/" className="logo">
-          Ivy Pandit
-          <small>Knowledge. Wisdom. Liberation.</small>
+          IVY PANDIT
+          <small>Ancient Wisdom. Modern Neuroscience. Timeless Inquiry.</small>
         </a>
         <div className="navlinks">
           <a href="/">Home</a>
           <a href="/about">About</a>
           <a href="/research">Research</a>
           <a href="/articles">Articles</a>
-          <a href="/gita">Gita</a>
-          <a href="/mahabharata">Mahabharata</a>
-          <a href="/bhagavatam">Bhagavatam</a>
           <a href="/youtube">YouTube</a>
-          <a href="/speaking">Speaking</a>
           <a href="/contact">Contact</a>
         </div>
       </nav>
@@ -38,8 +36,9 @@ function Header() {
 function Footer() {
   return (
     <footer className="footer">
-      <div>Ivy Pandit © 2026</div>
-      <div>Neuroscience • Sanskrit • Sanatana Dharma • nishant.mishra@ivypandit.com</div>
+      <div><strong>IVY PANDIT</strong><br />Ancient Wisdom. Modern Neuroscience. Timeless Inquiry.</div>
+      <div>info@ivypandit.com<br />nishant.mishra@ivypandit.com<br /><a href="https://www.youtube.com/@IvyPandit">YouTube @IvyPandit</a></div>
+      <div><a href="/">English</a><br /><a href="/hi">हिन्दी</a><br /><a href="/sa">संस्कृतम्</a></div>
     </footer>
   );
 }

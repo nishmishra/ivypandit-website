@@ -1,6 +1,6 @@
 {
-  "name": "ivy-pandit-phase-5",
-  "version": "5.0.0",
+  "name": "ivy-pandit-final-launch",
+  "version": "8.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",

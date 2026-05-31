@@ -1,24 +1,20 @@
-# Ivy Pandit Phase 5
+# Ivy Pandit Final Webpage Design — Varanasi Sunrise Theme
 
-Production-ready Next.js package.
+Clean production-ready Next.js project.
 
-## Phase 5 includes
-- Updated homepage banner with Thinker • Sanskrit Enthusiast
+## Includes
+- Orange/yellow Varanasi sunrise homepage theme
+- Real approved portrait in blue formal clothing
+- Working English homepage
+- Working Hindi page: /hi
+- Working Sanskrit page: /sa
+- About, Research, Articles, YouTube, Contact, Speaking pages
 - YouTube link: https://www.youtube.com/@IvyPandit
-- Emails displayed:
+- Emails shown:
   - info@ivypandit.com
   - nishant.mishra@ivypandit.com
-- No Yale webpage links
-- English / Hindi / Sanskrit content
-- Bhagavad Gita Center
-- Mahabharata Center
-- Bhagavatam Center
-- Gayatri & Neuroplasticity Center
-- Garbhadhana & Epigenetics Center
-- Speaking page
-- Support page
-- Contact page
 
 ## Deploy
-Upload all contents of this folder to the GitHub repo root.
+Upload the CONTENTS of this folder to the GitHub repository root.
+Commit changes.
 Vercel will redeploy automatically.
