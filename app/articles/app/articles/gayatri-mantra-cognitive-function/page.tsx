@@ -1,12 +1,4 @@
-export default function GayatriArticle() {
-return ( <main className="section"> <h1>
-Gayatri Mantra, Sandhyā-Vandana, Cognitive Function, and Mental Health:
-A Scientific Perspective </h1>
-
-```
-  <p><strong>Author:</strong> Dr. Nishant K. Mishra, MD, PhD</p>
-
-  <h2>Introduction</h2>
+ <h2>Introduction</h2>
 
   <p>
     Among the thousands of mantras preserved in the Vedic tradition,
