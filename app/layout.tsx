@@ -16,7 +16,7 @@ function Header() {
       <nav className="nav">
         <a href="/" className="logo">IVY PANDIT<small>Ancient Wisdom. Modern Neuroscience. Timeless Inquiry.</small></a>
         <div className="navlinks">
-          <a href="/">Home</a><a href="/about">About</a><a href="/research">Research</a><a href="/articles">Articles</a><a href="/youtube">YouTube</a><a href="/contact">Contact</a><a href="/admin">Admin</a>
+          <a href="/">Home</a><a href="/about">About</a><a href="/research">Research</a><a href="/articles">Articles</a><a href="/youtube">YouTube</a><a href="/contact">Contact</a>
         </div>
       </nav>
     </>
