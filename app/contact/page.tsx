@@ -1,10 +1,12 @@
 export default function Contact() {
   return (
     <main>
-      <section className="page-photo-banner">
-        <img src="/images/ivypandit-cultural-banner.png" alt="Ivy Pandit Varanasi cultural banner with Dr. Nishant K. Mishra" />
+
+      <section className="final-page-banner">
+        <img src="/images/cultural-page-banner.png" alt="Ivy Pandit banner" />
       </section>
-      <section className="page-hero">
+
+<section className="page-hero">
         <h1>Contact</h1>
         <p>Lectures, collaborations, interviews, and educational programs.</p>
       </section>

@@ -1,6 +1,10 @@
 export default function Home() {
   return (
     <main>
+      <section className="final-page-banner">
+        <img src="/images/homepage-about-banner.png" alt="Ivy Pandit banner" />
+      </section>
+
       <section className="hero">
         <div className="hero-inner">
           <div>

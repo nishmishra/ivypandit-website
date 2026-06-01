@@ -1,6 +1,10 @@
 export default function Support() {
   return (
     <main>
+      <section className="final-page-banner">
+        <img src="/images/cultural-page-banner.png" alt="Ivy Pandit banner" />
+      </section>
+
       <section className="page-hero">
         <h1>Support Ivy Pandit</h1>
         <p>Help build a serious educational platform for neuroscience, Sanskrit, and Indian knowledge systems.</p>

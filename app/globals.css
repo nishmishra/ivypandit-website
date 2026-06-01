@@ -26,3 +26,15 @@
   width: 100%;
   display: block;
 }
+
+
+/* Final Ivy Pandit banner image rules */
+.final-page-banner {
+  width: 100%;
+  background: #fff8e7;
+  border-bottom: 4px solid var(--sun, #fbbf24);
+}
+.final-page-banner img {
+  width: 100%;
+  display: block;
+}

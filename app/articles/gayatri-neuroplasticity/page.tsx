@@ -2,6 +2,10 @@
 export default function Article() {
   return (
     <main>
+      <section className="final-page-banner">
+        <img src="/images/cultural-page-banner.png" alt="Ivy Pandit banner" />
+      </section>
+
       <section className="page-hero">
         <h1>Gayatri Mantra & Neuroplasticity</h1>
         <p>Attention, meaning, sound, rhythm, and the developing brain.</p>

@@ -1,5 +1,7 @@
 export default function Hindi() { return <main>
-      <section className="page-photo-banner">
-        <img src="/images/ivypandit-cultural-banner.png" alt="Ivy Pandit Varanasi cultural banner with Dr. Nishant K. Mishra" />
+
+      <section className="final-page-banner">
+        <img src="/images/cultural-page-banner.png" alt="Ivy Pandit banner" />
       </section>
+
 <section className="page-hero"><h1 className="devanagari">आइवी पण्डित</h1><p className="devanagari">आधुनिक तंत्रिका-विज्ञान, चेतना, संस्कृत-साहित्य और सनातन धर्म का प्रमाण-आधारित संवाद।</p></section><section className="section copy narrow devanagari"><h2>डॉ. निशान्त के. मिश्र</h2><p>डॉ. निशान्त के. मिश्र, MD, PhD, न्यूरोलॉजिस्ट, वैज्ञानिक, विचारक और संस्कृत-प्रेमी हैं। आइवी पण्डित का उद्देश्य भारतीय ज्ञान-परम्परा और आधुनिक विज्ञान के बीच गंभीर, विनम्र और उपयोगी संवाद स्थापित करना है।</p><h2>मुख्य विषय</h2><ul><li>गायत्री मन्त्र और न्यूरोप्लास्टिसिटी</li><li>गर्भाधान संस्कार और एपिजेनेटिक्स</li><li>भगवद्गीता और मानसिक धैर्य</li><li>महाभारत और नेतृत्व</li><li>संस्कृत और स्मृति</li></ul></section></main>; }

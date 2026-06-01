@@ -1,6 +1,10 @@
 export default function Page() {
   return (
     <main>
+      <section className="final-page-banner">
+        <img src="/images/cultural-page-banner.png" alt="Ivy Pandit banner" />
+      </section>
+
       <section className="page-hero">
         <h1>Bhagavatam Knowledge Center</h1>
         <p>Devotion, consciousness, memory, narrative wisdom, and spiritual psychology.</p>

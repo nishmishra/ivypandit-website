@@ -2,6 +2,10 @@
 export default function Article() {
   return (
     <main>
+      <section className="final-page-banner">
+        <img src="/images/cultural-page-banner.png" alt="Ivy Pandit banner" />
+      </section>
+
       <section className="page-hero">
         <h1>Garbhadhana Samskara & Epigenetics</h1>
         <p>Future generations through the lens of parental preparation, biology, and Sanatana Dharma.</p>

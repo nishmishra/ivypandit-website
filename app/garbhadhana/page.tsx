@@ -1,6 +1,10 @@
 export default function Page() {
   return (
     <main>
+      <section className="final-page-banner">
+        <img src="/images/cultural-page-banner.png" alt="Ivy Pandit banner" />
+      </section>
+
       <section className="page-hero">
         <h1>Garbhadhana & Epigenetics Center</h1>
         <p>Preconception health, parental preparation, and future generations.</p>
