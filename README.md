@@ -19,3 +19,4 @@ Deploy: upload all contents of this folder to GitHub repo root, commit, and Verc
 ## Final banner mix update
 - Homepage and About use the formal tie banner.
 - Research, Articles, YouTube, Contact, Hindi, Sanskrit and other pages use the cultural shawl banner.
+Deployment refresh.
