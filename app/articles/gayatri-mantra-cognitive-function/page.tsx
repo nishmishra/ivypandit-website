@@ -3,7 +3,6 @@ return ( <main className="section"> <h1>
 Gayatri Mantra, Sandhyā-Vandana, Cognitive Function, and Mental Health:
 A Scientific Perspective </h1>
 
-```
   <p><strong>Author:</strong> Dr. Nishant K. Mishra, MD, PhD</p>
 
   <h2>Introduction</h2>
@@ -71,7 +70,6 @@ A Scientific Perspective </h1>
     opportunities for future interdisciplinary research.
   </p>
 </main>
-```
 
 );
 }
